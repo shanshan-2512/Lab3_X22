@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+}
+
+#items .completetrue {
+    color: rgba(192, 19, 106, 0.89);
+}
